@@ -1,0 +1,22 @@
+a {
+    padding: 13%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+}
+
+header{
+    background-color: tomato;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, .1);
+    border-radius: 10px;
+}
+address {
+    text-align: center;
+    background-color: tomato;
+    border-radius: 10px;
+}

@@ -1,0 +1,23 @@
+img {
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    padding: 0 450px;
+    border-radius: 90px;
+    
+}
+p {
+    text-align: center;
+    background-color: lightcoral;
+    border-radius: 60px;
+}
+
+fieldset {
+    background-color: wheat;
+    border-radius: 70px;
+}
+
+h2 {
+    background-color: lightcoral;
+    border-radius: 120px;
+}
